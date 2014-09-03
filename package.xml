@@ -7,6 +7,7 @@
   <license>BSD</license>
   <author>Allied Vision Technologies</author>
   <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>catkin</run_depend>
   <export>
   </export>
 </package>
