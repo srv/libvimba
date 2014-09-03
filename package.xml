@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package>
+  <name>libvimba</name>
+  <version>0.0.0</version>
+  <description>The libvimba package</description>
+  <maintainer email="miquel.massot@uib.cat">Miquel Massot</maintainer>
+  <license>BSD</license>
+  <author>Allied Vision Technologies</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+  </export>
+</package>
