@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>libvimba</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>The libvimba package</description>
   <maintainer email="miquel.massot@uib.cat">Miquel Massot</maintainer>
   <license>BSD</license>
