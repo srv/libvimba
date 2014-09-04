@@ -41,8 +41,8 @@ install(DIRECTORY include
 )
 
 ## Mark imported library for installation
-get_target_property(VimbaC_LOCATION VimbaC LOCATION)
-get_target_property(VimbaCPP_LOCATION VimbaCPP LOCATION)
+get_target_property(VimbaC_LOCATION VimbaC IMPORTED_LOCATION)
+get_target_property(VimbaCPP_LOCATION VimbaCPP IMPORTED_LOCATION)
 install(FILES
   ${VimbaC_LOCATION}
   ${VimbaCPP_LOCATION}
